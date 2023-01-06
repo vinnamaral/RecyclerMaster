@@ -15,11 +15,7 @@ The objective of this project is to remake Gmail layout and use the power of Rec
 ## App
 <p>
     <img alt="image" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1057743061695877150/1061031636474548424/Screenshot_2023-01-06-16-09-27-684_com.vinicius.recyclermaster.jpg" width=300>
-</p>
-<p>
     <img alt="image" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1057743061695877150/1061031594770575450/Screenshot_2023-01-06-16-09-36-249_com.vinicius.recyclermaster.jpg" width=300>
-</p>
-<p>
     <img alt="image" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1057743061695877150/1061031543042232350/Screenshot_2023-01-06-16-10-00-955_com.vinicius.recyclermaster.jpg" width=300>
 </p>
 
